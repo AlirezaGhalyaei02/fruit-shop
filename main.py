@@ -1,3 +1,5 @@
+# https://github.com/AlirezaGhalyaei02/fruit-shop
+
 def analyze_dict(**kwargs):
     num = len(kwargs)
     sum_price = sum(kwargs.values())
